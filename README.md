@@ -1,17 +1,13 @@
-## Getting Started
+## Projeto Java: Consumo da API de Filmes do IMDB
+Este é um projeto Java que demonstra como consumir a API de Filmes do IMDB para obter informações sobre filmes, como título, elenco, avaliações e muito mais. O objetivo deste projeto é fornecer um exemplo claro e prático de como utilizar APIs RESTful em um ambiente Java.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## <Status do projeto>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Tecnologias Utilizadas
+[JAVA]
+[Biblioteca Gson]
 
 ## Dependency Management
 
